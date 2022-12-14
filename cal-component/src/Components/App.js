@@ -1,9 +1,8 @@
 import CalHeader from './CalHeader '
-import './App.css';
 
 function App() {
   return (
-    <div className="App">
+    <div>
      <CalHeader/>
     </div>
   );
